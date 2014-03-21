@@ -7,12 +7,12 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: C:\Documents and Settings\Administrator\桌面\Bart vs. The Nerd.mp4
-Scroll Position: 160
-Active Line: 161
+Scroll Position: 154
+Active Line: 9
 Video Zoom Percent: 1.5
 Video File: C:\Documents and Settings\Administrator\桌面\Bart vs. The Nerd.mp4
 Video Aspect Ratio: c1.33333
-Video Position: 22875
+Video Position: 2662
 Last Style Storage: Default
 YCbCr Matrix: TV.601
 
@@ -23,15 +23,6 @@ Style: Default,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:13.24,Default,,0,0,0,, 肥猪网 www.fz222.com\N本视频字幕由肥猪网独家呈现
-Dialogue: 0,0:00:13.24,0:00:15.38,Default,,0,0,0,,Brings us back to the past,
-Dialogue: 0,0:00:17.38,0:00:20.39,Default,,0,0,0,,crap games that push.
-Dialogue: 0,0:00:20.39,0:00:28.88,Default,,0,0,0,,I would prefer if telefosatná ears a Bison,
-Dialogue: 0,0:00:28.88,0:00:33.31,Default,,0,0,0,,more megehetné a rotting skunk asshole, which passed through the roller
-Dialogue: 0,0:00:34.31,0:00:37.53,Default,,0,0,0,,and beer öblíthetné down.
-Dialogue: 0,0:00:37.53,0:00:41.67,Default,,0,0,0,,He is the most poisonous player whom has ever heard of.
-Dialogue: 0,0:00:41.67,0:00:45.83,Default,,0,0,0,,He's the Angry Nintendo Nerd.
-Dialogue: 0,0:00:45.83,0:00:49.12,Default,,0,0,0,,He's the Angry Atari Sega Nerd.
-Dialogue: 0,0:00:50.12,0:00:54.09,Default,,0,0,0,,He's the Angry Video Game Nerd.
 Dialogue: 0,0:00:55.09,0:00:58.46,Default,,0,0,0,,好吧 辛普森巴特的游戏有很多
 Dialogue: 0,0:00:58.46,0:01:03.84,Default,,0,0,0,,比如经典的游戏有Krusty的小丑屋\N巴特Vs.印度神、巴特的噩梦
 Dialogue: 0,0:01:03.84,0:01:07.21,Default,,0,0,0,,几乎所有的游戏平台都有辛普森游戏
