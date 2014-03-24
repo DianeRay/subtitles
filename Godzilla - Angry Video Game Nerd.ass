@@ -6,14 +6,16 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
-Audio URI: 20130314优先\Godzilla.mp4
-Scroll Position: 125
-Active Line: 131
+Scroll Position: 0
+Active Line: 0
 Video Zoom Percent: 1.5
-Video File: 20130314优先\Godzilla.mp4
+Video File: C:\Documents and Settings\Administrator\桌面\20130314优先\Godzilla.mp4
 Video Aspect Ratio: c1.33333
-Video Position: 17940
+Video Position: 554
 Last Style Storage: Default
+PlayResX: 480
+PlayResY: 360
+Audio URI: C:\Documents and Settings\Administrator\桌面\20130314优先\Godzilla.mp4
 YCbCr Matrix: TV.601
 
 [V4+ Styles]
@@ -22,7 +24,7 @@ Style: Default,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.88,Default,,0,0,0,, 肥猪网 www.fz222.com\N本视频字幕由肥猪网独家呈现
+Dialogue: 0,0:00:00.00,0:00:05.02,Default,,0,0,0,, 肥猪网 www.fz222.com\N本视频字幕由肥猪网独家呈现
 Dialogue: 0,0:01:01.52,0:01:04.19,Default,,0,0,0,,小时候我就爱两样东西：
 Dialogue: 0,0:01:04.19,0:01:06.67,Default,,0,0,0,,电视游戏和日本怪兽电影
 Dialogue: 0,0:01:06.67,0:01:10.10,Default,,0,0,0,,哥斯拉、蛾怪、飞鸟怪、吉多拉和钢铁哥斯拉
@@ -153,75 +155,74 @@ Dialogue: 0,0:09:34.46,0:09:41.20,Default,,0,0,0,,他们怎么可以这样对待
 Dialogue: 0,0:09:42.20,0:09:44.39,Default,,0,0,0,,我才不要浪费我宝贵\N时间在这屎一样的游戏上
 Dialogue: 0,0:09:44.39,0:09:49.64,Default,,0,0,0,,引用著名的莎士比亚\N最能总结这款游戏的一句话
 Dialogue: 0,0:09:50.64,0:09:51.87,Default,,0,0,0,,"去你妹的"
-Dialogue: 0,0:09:53.87,0:09:58.62,Default,,0,0,0,,Now let's move on to the Super Nintendo, Super Godzilla here.
-Dialogue: 0,0:09:58.62,0:10:03.16,Default,,0,0,0,,Now there's the super, this means that it can not play.
-Dialogue: 0,0:10:03.16,0:10:04.93,Default,,0,0,0,,But let's be serious.
-Dialogue: 0,0:10:07.93,0:10:10.73,Default,,0,0,0,,Wow, 199X in ...
-Dialogue: 0,0:10:10.73,0:10:15.06,Default,,0,0,0,,This would refer to the previous one, but now at least a little more specific date.
-Dialogue: 0,0:10:16.06,0:10:19.12,Default,,0,0,0,,The graphics look good, such as that you would expect a Godzilla game.
-Dialogue: 0,0:10:20.12,0:10:23.85,Default,,0,0,0,,But the gameplay is a completely different story.
-Dialogue: 0,0:10:23.85,0:10:28.45,Default,,0,0,0,,You control Godzilla, designated by a blue dot on the bottom of the screen.
-Dialogue: 0,0:10:28.45,0:10:30.60,Default,,0,0,0,,The top of the screen, but the spectacle is.
-Dialogue: 0,0:10:31.60,0:10:35.94,Default,,0,0,0,,So Godzilla playing, would you want to destroy buildings right?
-Dialogue: 0,0:10:35.94,0:10:38.70,Default,,0,0,0,,Well here, the buildings are suctioned out of energy.
-Dialogue: 0,0:10:38.70,0:10:42.65,Default,,0,0,0,,It makes no sense. Godzilla destroyed buildings throughout his life,
-Dialogue: 0,0:10:42.65,0:10:47.50,Default,,0,0,0,,The good thing is, as Mike Tyson would not be able to hit someone without causing damage to the hand.
-Dialogue: 0,0:10:48.50,0:10:51.00,Default,,0,0,0,,If you encounter an enemy monster, the screen comes to fight.
-Dialogue: 0,0:10:52.00,0:10:55.26,Default,,0,0,0,,Nah, it looks like what I was expecting a Godzilla game.
-Dialogue: 0,0:10:55.26,0:10:59.83,Default,,0,0,0,,But no, not quite. Because I've never seen such fighting game.
-Dialogue: 0,0:10:59.83,0:11:02.70,Default,,0,0,0,,Their frequency does not make sense at the bottom of the screen.
-Dialogue: 0,0:11:02.70,0:11:06.43,Default,,0,0,0,,There are two stamina meter, which shows the fighting spirit.
-Dialogue: 0,0:11:07.43,0:11:11.45,Default,,0,0,0,,He says: Keep your opponent low morale and hitting,
-Dialogue: 0,0:11:11.45,0:11:15.43,Default,,0,0,0,,Godzilla attacking with open space and close it quickly.
-Dialogue: 0,0:11:15.43,0:11:16.08,Default,,0,0,0,,So let me try to summarize.
-Dialogue: 0,0:11:17.08,0:11:20.60,Default,,0,0,0,,Get close to the enemy, hit him, then quickly go back
-Dialogue: 0,0:11:20.60,0:11:22.62,Default,,0,0,0,,and press left one or right to select the attack.
-Dialogue: 0,0:11:22.62,0:11:27.92,Default,,0,0,0,,That's not what he did not say to press the damn left one or the right.
-Dialogue: 0,0:11:27.92,0:11:30.64,Default,,0,0,0,,Why is it so damn hard to fight two monsters,
-Dialogue: 0,0:11:30.64,0:11:32.37,Default,,0,0,0,,Why is it so hard to be like an Einstein Project.
-Dialogue: 0,0:11:33.37,0:11:36.84,Default,,0,0,0,,I hate to say it, but I still like him better in the NES version.
-Dialogue: 0,0:11:36.84,0:11:43.31,Default,,0,0,0,,Easy to understand how to play, but then gave up the Godzilla games.
-Dialogue: 0,0:11:43.31,0:11:47.44,Default,,0,0,0,,If they can not release a good Super Nintendo, all hope was gone.
-Dialogue: 0,0:11:47.44,0:11:53.60,Default,,0,0,0,,My wish is a traditional tournament-style game godzilla monsters.
-Dialogue: 0,0:11:53.60,0:11:55.65,Default,,0,0,0,,Well my wish was fulfilled half.
-Dialogue: 0,0:11:55.65,0:12:00.93,Default,,0,0,0,,My dreams Gozdilla game finished, but just launched in Japan.
-Dialogue: 0,0:12:00.93,0:12:03.53,Default,,0,0,0,,Which means that the Super Famicom to play immediately.
-Dialogue: 0,0:12:04.53,0:12:09.62,Default,,0,0,0,,they call it Godzilla ... (Whatever) finally play this good.
-Dialogue: 0,0:12:09.62,0:12:13.29,Default,,0,0,0,,Today, there is not anything special, but I liked it.
-Dialogue: 0,0:12:13.29,0:12:17.77,Default,,0,0,0,,Here most of the monsters in the movies, there are specific movements,
-Dialogue: 0,0:12:17.77,0:12:20.29,Default,,0,0,0,,recognizable in the background, and the music is there.
-Dialogue: 0,0:12:21.29,0:12:23.48,Default,,0,0,0,,That's fucking Godzillas.
-Dialogue: 0,0:12:23.48,0:12:26.37,Default,,0,0,0,,But on the whole you will never forget,
-Dialogue: 0,0:12:26.37,0:12:29.28,Default,,0,0,0,,Nintendo Power how to make fun of me with this game.
-Dialogue: 0,0:12:29.28,0:12:32.57,Default,,0,0,0,,72 edition, May 1995.
-Dialogue: 0,0:12:32.57,0:12:36.13,Default,,0,0,0,,"Coming Soon: Godzilla - Destroy All Monsters"
-Dialogue: 0,0:12:36.13,0:12:39.30,Default,,0,0,0,,When I saw this card, the shit my pants.
-Dialogue: 0,0:12:39.30,0:12:44.33,Default,,0,0,0,,Godzilla is a tournament? I can not wait to play!
-Dialogue: 0,0:12:44.33,0:12:47.67,Default,,0,0,0,,More is not mentioned anywhere, nor is it found in the stores.
-Dialogue: 0,0:12:48.67,0:12:51.74,Default,,0,0,0,,Only in Japan, but in Japan ...
-Dialogue: 0,0:12:52.74,0:12:55.07,Default,,0,0,0,,15 years later, I'm still pulling up.
-Dialogue: 0,0:12:56.07,0:13:02.72,Default,,0,0,0,,I just wanted a good Godzilla game, but the kid is gone, and I never got it.
-Dialogue: 0,0:13:04.72,0:13:07.59,Default,,0,0,0,,But these days there are quite a Godzilla game
-Dialogue: 0,0:13:07.59,0:13:12.24,Default,,0,0,0,,Godzilla - Destroy All Monsters Malee, Godzilla - Save the Earth,
-Dialogue: 0,0:13:12.24,0:13:13.28,Default,,0,0,0,,Godzilla - Unleashed
-Dialogue: 0,0:13:14.28,0:13:17.69,Default,,0,0,0,,It has been after my time there. I do not know anything about these.
-Dialogue: 0,0:13:17.69,0:13:20.14,Default,,0,0,0,,Playsation 2? Something XBOX sucks.
-Dialogue: 0,0:13:21.14,0:13:22.28,Default,,0,0,0,,But I'll give them a try.
-Dialogue: 0,0:14:20.28,0:14:28.45,Default,,0,0,0,,Baaaszaaaa meeeeeeeeeg!!
-Dialogue: 0,0:14:31.45,0:14:33.18,Default,,0,0,0,,Why were not these games when I was a kid?
-Dialogue: 0,0:14:34.18,0:14:36.76,Default,,0,0,0,,Fuck, I was born too early!
-Dialogue: 0,0:14:37.76,0:14:41.45,Default,,0,0,0,,Instead, I grew up with these pathetic shit asshole sucking with.
-Dialogue: 0,0:14:42.45,0:14:45.18,Default,,0,0,0,,These games have sucked more than golyószopók!
-Dialogue: 0,0:14:45.18,0:14:49.82,Default,,0,0,0,,Instead, I give Godzilla electroshock Meca-electric fuck of
-Dialogue: 0,0:14:49.82,0:14:54.05,Default,,0,0,0,,These games are like crap to flow down from the smog monster huge asshole,
-Dialogue: 0,0:14:55.05,0:14:59.59,Default,,0,0,0,,while they furiously absorb all of it while lying on a bed of nails,
-Dialogue: 0,0:14:59.59,0:15:01.74,Default,,0,0,0,,push it all up in my ass!
-Dialogue: 0,0:15:01.74,0:15:06.84,Default,,0,0,0,,While the withers into the hell of a fuck face!
-Dialogue: 0,0:15:06.84,0:15:14.09,Default,,0,0,0,,Man! It's a fucked up! A rot! Fuck! Shit! Fuck ... Shit ...
-Dialogue: 0,0:15:15.09,0:15:20.45,Default,,0,0,0,,Fuck, I just said it was just what my heart every curse ...
-Dialogue: 0,0:15:20.45,0:15:21.92,Default,,0,0,0,,And you know, no more.
-Dialogue: 0,0:15:21.92,0:15:24.10,Default,,0,0,0,,So one has to find a new curse.
-Dialogue: 0,0:15:25.10,0:15:26.25,Default,,0,0,0,,I think I made it up.
-Dialogue: 0,0:15:26.25,0:15:29.65,Default,,0,0,0,,This game, this game is a fucking ...
-Dialogue: 0,0:15:32.65,0:15:35.26,Default,,0,0,0,,Oh Oh, aye. It's that bad.
-Dialogue: 0,0:15:38.26,0:15:41.00,Default,,0,0,0,,- Sub by Dolfin - dolfinthereal@gmail.com  Subtitles End: mo.dbxdb.com
+Dialogue: 0,0:09:53.87,0:09:58.62,Default,,0,0,0,,我们还是换超级任天堂\N游戏平台玩这个超级哥斯拉
+Dialogue: 0,0:09:58.62,0:10:03.16,Default,,0,0,0,,它加了个超级上去\N说明应该会好玩点吧
+Dialogue: 0,0:10:03.16,0:10:04.93,Default,,0,0,0,,让我们一起来期待吧
+Dialogue: 0,0:10:07.93,0:10:10.73,Default,,0,0,0,,哇哦，199X年
+Dialogue: 0,0:10:10.73,0:10:15.06,Default,,0,0,0,,和之前的相比他们给出了比较确切的时间
+Dialogue: 0,0:10:16.06,0:10:19.12,Default,,0,0,0,,游戏画面做的还算不错\N正如我们所期待的哥斯拉游戏那样
+Dialogue: 0,0:10:20.12,0:10:23.85,Default,,0,0,0,,玩游戏就完全是另外一回事了
+Dialogue: 0,0:10:23.85,0:10:28.45,Default,,0,0,0,,游戏就操控一只哥斯拉\N地图上就用一个蓝点来表示
+Dialogue: 0,0:10:28.45,0:10:30.60,Default,,0,0,0,,上面的屏幕就是好看用的
+Dialogue: 0,0:10:31.60,0:10:35.94,Default,,0,0,0,,玩哥斯拉就是想要拆楼不是么？
+Dialogue: 0,0:10:35.94,0:10:38.70,Default,,0,0,0,,但这里破坏的房子\N玩起来真的想死
+Dialogue: 0,0:10:38.70,0:10:42.65,Default,,0,0,0,,这太不科学了\N哥斯拉生来就是为了拆楼的
+Dialogue: 0,0:10:42.65,0:10:47.50,Default,,0,0,0,,它特长就是拆楼\N就好象麦克泰森不伤自己的手就没办法打败别人
+Dialogue: 0,0:10:48.50,0:10:51.00,Default,,0,0,0,,当你和怪兽战斗的时候就会进入战斗模式
+Dialogue: 0,0:10:52.00,0:10:55.26,Default,,0,0,0,,这貌似就是我所期待的哥斯拉游戏
+Dialogue: 0,0:10:55.26,0:10:59.83,Default,,0,0,0,,不是 绝对不是 战斗游戏就根本不是这样的
+Dialogue: 0,0:10:59.83,0:11:02.70,Default,,0,0,0,,下面的游戏指示设计的一点也不科学
+Dialogue: 0,0:11:02.70,0:11:06.43,Default,,0,0,0,,下面有两状态条\N表示的是战斗力高低
+Dialogue: 0,0:11:07.43,0:11:11.45,Default,,0,0,0,,他说等到战斗力槽到达最高的时候攻击对方
+Dialogue: 0,0:11:11.45,0:11:15.43,Default,,0,0,0,,操控哥斯拉抓空隙攻击后立刻拉回来
+Dialogue: 0,0:11:15.43,0:11:16.08,Default,,0,0,0,,换句话说
+Dialogue: 0,0:11:17.08,0:11:20.60,Default,,0,0,0,,先接近敌人 攻击敌人\N然后又快速闪现回去
+Dialogue: 0,0:11:20.60,0:11:22.62,Default,,0,0,0,,并且按L和R键选择攻击方式
+Dialogue: 0,0:11:22.62,0:11:27.92,Default,,0,0,0,,这游戏根本就没提示过要按L和R是不是？
+Dialogue: 0,0:11:27.92,0:11:30.64,Default,,0,0,0,,为什么要制作两个怪兽的战斗游戏
+Dialogue: 0,0:11:30.64,0:11:32.37,Default,,0,0,0,,难得就像在实施爱因斯坦复活计划一样
+Dialogue: 0,0:11:33.37,0:11:36.84,Default,,0,0,0,,我真不想这么说\N我觉得NES版本的还是最好的
+Dialogue: 0,0:11:36.84,0:11:43.31,Default,,0,0,0,,至少这个版本很容易上手\N这回我只能选择放弃哥斯拉游戏了
+Dialogue: 0,0:11:43.31,0:11:47.44,Default,,0,0,0,,如果他们不在超级任天堂平台\N发布一个更好的哥斯拉游戏  这公司就没救了
+Dialogue: 0,0:11:47.44,0:11:53.60,Default,,0,0,0,,我希望的不过是一部传统的\N轮回赛一样的哥斯拉怪兽对战游戏
+Dialogue: 0,0:11:53.60,0:11:55.65,Default,,0,0,0,,我的愿望最后实现了一半
+Dialogue: 0,0:11:55.65,0:12:00.93,Default,,0,0,0,,我一直梦想的游戏确实存在\N但只有日本才有得卖
+Dialogue: 0,0:12:00.93,0:12:03.53,Default,,0,0,0,,并且只能用FC游戏机玩
+Dialogue: 0,0:12:04.53,0:12:09.62,Default,,0,0,0,,名字叫哥斯拉怪兽大决战\N最后能玩到这感觉好极了
+Dialogue: 0,0:12:09.62,0:12:13.29,Default,,0,0,0,,放到今天这根本就没什么\N要是过去得到这款游戏我做梦都会笑
+Dialogue: 0,0:12:13.29,0:12:17.77,Default,,0,0,0,,这里包含了大部分电影里面的怪物\N并且每个怪物的招式都不一样
+Dialogue: 0,0:12:17.77,0:12:23.48,Default,,0,0,0,,背景就非常的熟悉\N音乐听起来的感觉除了哥斯拉就是哥斯拉
+Dialogue: 0,0:12:23.48,0:12:26.37,Default,,0,0,0,,但让我觉得无比遗憾的是
+Dialogue: 0,0:12:26.37,0:12:29.28,Default,,0,0,0,,任天堂真是搞笑到极点了
+Dialogue: 0,0:12:29.28,0:12:32.57,Default,,0,0,0,,这是1995年5月发布的72版
+Dialogue: 0,0:12:32.57,0:12:36.13,Default,,0,0,0,,"即将发布：哥斯拉-怪兽大决战"
+Dialogue: 0,0:12:36.13,0:12:39.30,Default,,0,0,0,,当我看到这页的时候就吓尿了
+Dialogue: 0,0:12:39.30,0:12:44.33,Default,,0,0,0,,哥斯拉巡回战？\N我激动的饭都吃不下想玩！
+Dialogue: 0,0:12:44.33,0:12:47.67,Default,,0,0,0,,更多的信息找不到\N在商店里面也根本找不到
+Dialogue: 0,0:12:48.67,0:12:51.74,Default,,0,0,0,,所有的只有日本才有
+Dialogue: 0,0:12:52.74,0:12:55.07,Default,,0,0,0,,15年后 我还是想喷一下
+Dialogue: 0,0:12:56.07,0:13:02.72,Default,,0,0,0,,我想要的不过是一款好的哥斯拉游戏\N但我的童年一去不复返满是遗憾
+Dialogue: 0,0:13:04.72,0:13:07.59,Default,,0,0,0,,现在就有很多哥斯拉游戏
+Dialogue: 0,0:13:07.59,0:13:12.24,Default,,0,0,0,,哥斯拉-大战马利怪兽\N哥斯拉-拯救地球
+Dialogue: 0,0:13:12.24,0:13:13.28,Default,,0,0,0,,哥斯拉-无人可敌
+Dialogue: 0,0:13:14.28,0:13:17.69,Default,,0,0,0,,这不是我那个年代的东西\N我一点也不了解这些游戏到底怎样
+Dialogue: 0,0:13:17.69,0:13:20.14,Default,,0,0,0,,PS2和XBOX什么的我不知道
+Dialogue: 0,0:13:21.14,0:13:22.28,Default,,0,0,0,,但是我还是想试试
+Dialogue: 0,0:14:20.28,0:14:28.45,Default,,0,0,0,,我...靠...
+Dialogue: 0,0:14:31.45,0:14:33.18,Default,,0,0,0,,为什么我的童年不可以拥有这些游戏呢
+Dialogue: 0,0:14:34.18,0:14:36.76,Default,,0,0,0,,我靠  谁叫我生得太早了呢
+Dialogue: 0,0:14:37.76,0:14:41.45,Default,,0,0,0,,相反的我得到的是一个菊花一样的游戏不停得吸食
+Dialogue: 0,0:14:42.45,0:14:45.18,Default,,0,0,0,,这些游戏去吃屎去吧
+Dialogue: 0,0:14:45.18,0:14:49.82,Default,,0,0,0,,我宁愿被电死在哥斯拉的电击\N去你妹的游戏
+Dialogue: 0,0:14:49.82,0:14:54.05,Default,,0,0,0,,这些游戏就像一坨屎一样\N从怪物的庞大菊花一点一点得流下来
+Dialogue: 0,0:14:55.05,0:14:59.59,Default,,0,0,0,,然后生气地躺在那里就像吸食奶嘴一样
+Dialogue: 0,0:14:59.59,0:15:01.74,Default,,0,0,0,,再塞进我的屁股里
+Dialogue: 0,0:15:01.74,0:15:06.84,Default,,0,0,0,,那些恶心的&%￥#@全部都敷在了我的脸上
+Dialogue: 0,0:15:06.84,0:15:14.09,Default,,0,0,0,,我去 真他喵的 恶心死了 靠...
+Dialogue: 0,0:15:15.09,0:15:20.45,Default,,0,0,0,,我去，我都已经词穷了\N根本找不到更好的词代表我的心情
+Dialogue: 0,0:15:20.45,0:15:21.92,Default,,0,0,0,,不知道说什么好了
+Dialogue: 0,0:15:21.92,0:15:24.10,Default,,0,0,0,,我有责任发明一个新词来表达我的爱
+Dialogue: 0,0:15:25.10,0:15:26.25,Default,,0,0,0,,我觉得我想到了
+Dialogue: 0,0:15:26.25,0:15:29.65,Default,,0,0,0,,这游戏 \N这混蛋游戏是#￥%&！
+Dialogue: 0,0:15:32.65,0:15:35.26,Default,,0,0,0,,卧槽\N这下爽多了
+Dialogue: 0,0:00:00.00,0:15:41.00,Default,,0,0,0,,{\2c&H31B9DB&\c&H1D7B93&\pos(66,49.334)}www.fz222.com
