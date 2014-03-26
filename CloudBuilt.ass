@@ -1,0 +1,34 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Audio URI: C:\Documents and Settings\Administrator\桌面\小戴\Exclusive Launch Trailer.mp4
+Video Zoom Percent: 0.75
+Scroll Position: 6
+Active Line: 12
+Video File: C:\Documents and Settings\Administrator\桌面\小戴\Exclusive Launch Trailer.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 2602
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,, 肥猪网 www.fz222.com\N本视频字幕由肥猪网独家呈现\N
+Dialogue: 0,0:00:09.61,0:00:11.61,Default,,0,0,0,,实时游戏画面
+Dialogue: 0,0:00:14.08,0:00:16.08,Default,,0,0,0,,没有路可以走
+Dialogue: 0,0:00:22.95,0:00:24.95,Default,,0,0,0,,却总可以找到一条路走
+Dialogue: 0,0:00:35.75,0:00:37.75,Default,,0,0,0,,有高难度的路
+Dialogue: 0,0:00:42.91,0:00:44.91,Default,,0,0,0,,有捷径
+Dialogue: 0,0:00:48.48,0:00:50.48,Default,,0,0,0,,走你自己的路
+Dialogue: 0,0:00:53.48,0:00:55.48,Default,,0,0,0,,"这是一个跑酷玩家梦中"\N的PC游戏
+Dialogue: 0,0:00:57.58,0:00:59.58,Default,,0,0,0,,"云路就如在天国穿梭"\N石头、爬墙走、射击
+Dialogue: 0,0:01:01.05,0:01:03.05,Default,,0,0,0,,"今年最受人瞩目的游戏"\N破坏机器人
+Dialogue: 0,0:01:13.71,0:01:15.71,Default,,0,0,0,,寻找你自己的路
+Dialogue: 0,0:01:16.05,0:01:26.75,Default,,0,0,0,,云路3月20日将发布Steam平台
+Dialogue: 0,0:00:00.00,0:01:28.75,Default,,0,0,0,,{\c&H26C1C7&\3c&H967068&\pos(82,44.667)}www.fz222.com
